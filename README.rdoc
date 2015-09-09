@@ -1,5 +1,5 @@
 = DISCLAIMER
-This repository contains partial solutions -- obviously Ruby Koans was not written by me.
+This repository contains partial solutions to some of the Koans -- obviously Ruby Koans was not written by me.
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
